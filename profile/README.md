@@ -1,4 +1,4 @@
-![Association Chasseurs d'Orages](https://www.chasseurs-orages.com/wp-contenusite/uploads/2026/04/HEADER_ARTICLE_CO-1170x390.jpg)
+![Association Chasseurs d'Orages](https://raw.githubusercontent.com/Chasseurs-d-Orages/.github/refs/heads/main/profile/asso_co.webp)
 
 # Association Chasseurs d'Orages
 
